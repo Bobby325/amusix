@@ -1,2 +1,0 @@
-# ccpush
-net base library
